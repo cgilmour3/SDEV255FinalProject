@@ -1,0 +1,15 @@
+student management system test user emails and passwords for login
+Students--
+Han Solo- email:hsolo@mail.com password: starwars1977
+Cameron Gilmour- email:cgilmour@mail.com password: password123
+Luke Skywalker- email:lskywalker@mail.com password:returnofthejedi
+Chewbacca- email:chewy@mail.com password:hanisfriend
+Leia Organa- email:lorgana@mail.com password: ilovehan123
+------------
+Teachers
+Ben Kenobi- email:bkenobi@mail.com password:obiwan123
+Lee Wolfe- email:lwolfe@mail.com password:wolfe123
+Darth Vader- email:dvader@mail.com password: iamyourfather
+Emperor Palpatine- email:epalp@mail.com password:evilman123
+yoda: email:yoda@mail.com password:doordonot
+
